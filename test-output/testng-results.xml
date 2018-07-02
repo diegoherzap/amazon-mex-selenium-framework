@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15559" started-at="2018-07-02T06:44:58Z" finished-at="2018-07-02T06:45:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15559" started-at="2018-07-02T06:44:58Z" finished-at="2018-07-02T06:45:14Z">
+      <class name="tests.searchItem">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:tests.searchItem@2a5ca609]" name="initialize" is-config="true" duration-ms="12796" started-at="2018-07-02T01:44:58Z" finished-at="2018-07-02T01:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="searchItemByKeyword()[pri:0, instance:tests.searchItem@2a5ca609]" name="searchItemByKeyword" duration-ms="1394" started-at="2018-07-02T01:45:11Z" finished-at="2018-07-02T01:45:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItemByKeyword -->
+        <test-method status="PASS" signature="end()[pri:0, instance:tests.searchItem@2a5ca609]" name="end" is-config="true" duration-ms="1355" started-at="2018-07-02T01:45:12Z" finished-at="2018-07-02T01:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- tests.searchItem -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
